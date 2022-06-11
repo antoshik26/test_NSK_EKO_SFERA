@@ -1,0 +1,16 @@
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.exe
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.deps.json
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.runtimeconfig.json
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.runtimeconfig.dev.json
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.dll
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\ref\test_NSK_EKO_SFERA.dll
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\bin\Debug\net5.0\test_NSK_EKO_SFERA.pdb
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.csproj.AssemblyReference.cache
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.AssemblyInfo.cs
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.dll
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\ref\test_NSK_EKO_SFERA.dll
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.pdb
+C:\Users\gomez\source\repos\test_NSK_EKO_SFERA\test_NSK_EKO_SFERA\obj\Debug\net5.0\test_NSK_EKO_SFERA.genruntimeconfig.cache

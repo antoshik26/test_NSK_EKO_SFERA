@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "test_NSK_EKO_SFERA": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\gomez\\Downloads\\тестовове C# (2)\\AAPL-IQFeed-SMART-Stocks-Minute-Trade.txt\" \"C:\\Users\\gomez\\Downloads\\тестовове C# (2)\\AAPL-IQFeed-SMART-Stocks-Minute-Trade-corrupted.txt\""
+    }
+  }
+}

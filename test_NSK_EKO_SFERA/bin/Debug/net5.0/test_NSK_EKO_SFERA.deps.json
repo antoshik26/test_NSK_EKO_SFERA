@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "test_NSK_EKO_SFERA/1.0.0": {
+        "runtime": {
+          "test_NSK_EKO_SFERA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_NSK_EKO_SFERA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
